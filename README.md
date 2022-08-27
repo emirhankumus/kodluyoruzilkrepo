@@ -24,5 +24,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-![markdown görsel](markdown.png)
+![markdown görsel](markdown.png) 
